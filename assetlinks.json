@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "jp.co.jrwest.setowa.develop",
+               "sha256_cert_fingerprints": ["9F:80:9E:0A:F3:C6:D7:55:52:1C:40:F6:75:20:52:D5:D6:D8:B6:62:26:80:E9:ED:C2:63:00:5D:B6:6B:93:E3"] }
+}]
