@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "74M34C2YCG.jp.co.jrwest.setowa2.dev",
+                "paths": [ "*", "/" ]
+            }
+        ]
+    }
+}
